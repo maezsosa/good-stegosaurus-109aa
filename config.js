@@ -23,7 +23,7 @@ module.exports = {
       url: 'https://twitter.com/maezsosa',
     },
     {
-      icon: 'fa-facebook',
+      icon: 'fa-linkedin',
       name: 'Facebook',
       url: 'https://facebook.com/theanubhav',
     },
