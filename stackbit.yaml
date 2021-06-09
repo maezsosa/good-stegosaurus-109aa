@@ -3,7 +3,3 @@
 stackbitVersion: ~0.3.0
 ssgName: gatsby
 publishDir: public
-models:
-  model1:
-    type: page
-    label: model1
