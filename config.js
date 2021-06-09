@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Matias Ezequiel Sosa',
-  heading: 'Web Developer',
+  heading: 'Frontend & Mobile Team Lead',
   // social
   socialLinks: [
     {
