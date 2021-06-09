@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       icon: 'fa-linkedin',
-      name: 'maezsosa',
+      name: 'linkedin',
       url: 'https://facebook.com/theanubhav',
     },
     {
